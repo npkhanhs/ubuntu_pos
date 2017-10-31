@@ -29,6 +29,8 @@ def change_hostname():
     os.system('dmidecode -s system-serial-number >> info')
     os.system('dmidecode -s system-product-name >> info')
 
+    os.system('rm')
+
 
 def main():
     change_hostname()

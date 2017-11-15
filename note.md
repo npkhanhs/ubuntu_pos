@@ -10,3 +10,5 @@ git status : xem trang thai
 git bran
 
 git branch -b "ten branch"
+
+request.get  lay noi dung file tren web

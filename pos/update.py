@@ -3,4 +3,5 @@
 import os
 print("test")
 print("Hai test")
-os.system('pip3 install -r /etc/updatep/git_download/requirements.txt')
+#os.system('pip3 install -r /etc/updatep/git_download/requirements.txt')
+os.system('pip3 install --upgrade pip3')

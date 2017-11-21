@@ -2,7 +2,7 @@
 # folder download /etc/updatep/git_download  
 #import os
 print("test")
-print("test new")
+print("Hai test")
 
 
 #os.system('pip3 install -r /home/fepos/Downloads/hai/requirements.txt')

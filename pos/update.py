@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # folder download /etc/updatep/git_download  
-#import os
+import os
 print("test")
 print("Hai test")
-
-
-#os.system('pip3 install -r /home/fepos/Downloads/hai/requirements.txt')
+os.system('pip3 install -r /etc/updatep/git_download/requirements.txt')

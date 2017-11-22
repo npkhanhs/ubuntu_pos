@@ -2,6 +2,6 @@
 # folder download /etc/updatep/git_download  
 import os
 print("test")
-print("Hai test")
+print("test 2")
 #os.system('pip3 install -r /etc/updatep/git_download/requirements.txt')
-os.system('pip3 install --upgrade pip3')
+#os.system('pip3 install --upgrade pip3')

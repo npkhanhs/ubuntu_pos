@@ -5,7 +5,7 @@
 2 - phai cai git
 3 - phai co thu muc /etc/updatep  phan quyen full
 4 - phai co thu muc /etc/updatep/git_download  
-5 - phai co san file Update.py và Check_update.py
+5 - phai co san file Update.py và Check_update.py trong floder /etc/updatep
 
 '''
 import requests

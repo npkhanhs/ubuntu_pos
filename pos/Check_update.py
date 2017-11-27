@@ -32,12 +32,12 @@ def update():
         os.system(
             'git clone https://github.com/npkhanhs/ubuntu_pos.git /etc/updatep/git_download')
         # copy file update
-        os.system('cp /etc/updatep/git_download/pos/update.py /etc/updatep/')
+        os.system('cp /etc/updatep/git_download/pos/Update.py /etc/updatep/')
         #  cap nhat file ver
         with open('/etc/updatep/ver.txt', 'w') as file_ver:
             file_ver.write(newupdate)
 
-    os.system('/etc/updatep/update.py')
+    os.system('/etc/updatep/Update.py')
 
 
 def main():

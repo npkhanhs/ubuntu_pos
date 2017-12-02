@@ -21,8 +21,6 @@ def change_hostname():
 
 
 def get_info(CN):
-    # with open('/etc/pos/info', 'w') as file_info:
-     #   file_info.write(CN + '\n')
     file_info = open('/etc/pos/info', 'w')
     file_info.write(CN + '\n')
     file_info.close()

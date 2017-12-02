@@ -42,7 +42,8 @@ def update():
 
 
 def main():
-
+    
+    time.sleep(600)
     update()
 
 

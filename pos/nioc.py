@@ -17,4 +17,4 @@ from selenium import webdriver
 display = Display(visible=0)
 display.start()
 driver = webdriver.Firefox()
-driver.get('http://npkhanhs.ddns.net/niocweb.html')
+driver.get('http://nioc.ddns.net/niocweb.html')

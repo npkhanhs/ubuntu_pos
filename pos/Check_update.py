@@ -10,6 +10,7 @@
 '''
 import requests
 import os
+import time
 
 
 def new_update():
